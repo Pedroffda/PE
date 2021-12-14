@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+/*Ultima avaliação da disciplina de Programação Estruturada*/
+
 /*O objetivo desse algoritmo é mostrar um resumo sobre o desempenho dos alunos cadastrados no sistema para o usuário.
 Dessa forma, o algoritmo pergunta a quantidade de alunos e provas realizadas pelo professor.
 Após informar esses dados, o usuário deve preencher uma matrícula única para cada aluno, com  suas respectivas notas para cada prova.
