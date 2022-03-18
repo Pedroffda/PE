@@ -1,11 +1,15 @@
 #include <stdio.h>
 
-/*Ultima avaliação da disciplina de Programação Estruturada*/
+/*
+Ultima avaliação da disciplina de Programação Estruturada
+*/
 
-/*O objetivo desse algoritmo é mostrar um resumo sobre o desempenho dos alunos cadastrados no sistema para o usuário.
+/*
+O objetivo desse algoritmo é mostrar um resumo sobre o desempenho dos alunos cadastrados no sistema para o usuário.
 Dessa forma, o algoritmo pergunta a quantidade de alunos e provas realizadas pelo professor.
 Após informar esses dados, o usuário deve preencher uma matrícula única para cada aluno, com  suas respectivas notas para cada prova.
-Ao final da coleta de dados, um resumo é apresentado ao usuário, o qual conta com as notas para cada avaliação e a média dos alunos.*/
+Ao final da coleta de dados, um resumo é apresentado ao usuário, o qual conta com as notas para cada avaliação e a média dos alunos.
+*/
 
 typedef  struct{ // estrutura que define os dados que serão preenchidos para cada aluno;
    int matricula;
